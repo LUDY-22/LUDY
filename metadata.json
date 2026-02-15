@@ -1,0 +1,7 @@
+{
+  "name": "Copy of LUVIEL Fluxo",
+  "description": "Sistema de gestão comercial Android de alto desempenho com stock, vendas e tesouraria em tempo real.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
